@@ -1,0 +1,11 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background: linear-gradient( to right,
+        #e6dec4, 
+        #fffdf4);
+}
+#board{
+    /* background-color: skyblue; */
+    background-image: url("./images/flappybirdbg.png");
+}
